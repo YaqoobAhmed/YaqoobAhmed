@@ -1,4 +1,4 @@
-[![Flutter developer](/git banner.mp4)](https://github.com/YaqoobAhmed/YaqoobAhmed/assets/98280210/f1985acc-7da2-409c-bd2d-af42b3f09d6f)
+<img align="right" class="GIF" alt="GIF" src="/git banner.gif" width="350px"/>
 <h1 align="center">Hi All👋, I'm Yaqoob Ahmed</h1>
 <h3 align="center">A Passionate Web & Mobile Developer</h3>
 <img align="right" class="GIF" alt="GIF" src="/git profile gif.gif" width="350px"/>
