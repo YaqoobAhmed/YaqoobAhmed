@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22A39F&vCenter=true&width=435&lines=Junior+Software+Developer;Junior+JavaScript+Developer" alt="Typing SVG" /></a>
 <h1 align="center">Hi All👋, I'm Yaqoob Ahmed</h1>
 <h3 align="center">A Passionate Web & Mobile Developer</h3>
-<img align="right" class="GIF" alt="GIF" src="https://gorillalogic.com/wp-content/uploads/2021/03/Gif-6.gif" width="350px"/>
+<img align="right" class="GIF" alt="GIF" src="/git profile gif.gif" width="350px"/>
 
 - 🔭 I’m currently working on **Html , CSS , Javascript Projects**
 
