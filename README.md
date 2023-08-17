@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]([https://rishavchanda.io](https://devskrate.github.io/assets/images/mlogs/github/codespaces2.gif))
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))]([https://rishavchanda.io](https://devskrate.github.io/assets/images/mlogs/github/codespaces2.gif))
 <h1 align="center">Hi All👋, I'm Yaqoob Ahmed</h1>
 <h3 align="center">A Passionate Web & Mobile Developer</h3>
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
