@@ -1,7 +1,7 @@
 <img align="right" class="GIF" alt="GIF" src="/git banner.gif" width="350px"/>
 <h1 align="center">Hi All👋, I'm Yaqoob Ahmed</h1>
 <h3 align="center">A Passionate Web & Mobile Developer</h3>
-<img align="right" class="GIF" alt="GIF" src="/git profile gif.gif" width="350px"/>
+<img align="right" class="GIF" alt="GIF" src="/git profile gif.gif" width="450px"/>
 
 - 🔭 I’m currently working on **Html , CSS , Javascript Projects**
 
