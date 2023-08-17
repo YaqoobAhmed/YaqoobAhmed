@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))]
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22A39F&vCenter=true&width=435&lines=Junior+Software+Developer;Junior+JavaScript+Developer" alt="Typing SVG" /></a>
 <h1 align="center">Hi All👋, I'm Yaqoob Ahmed</h1>
 <h3 align="center">A Passionate Web & Mobile Developer</h3>
-<img align="right" class="GIF" alt="GIF" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="350px"/>
+<img align="right" class="GIF" alt="GIF" src="https://gorillalogic.com/wp-content/uploads/2021/03/Gif-6.gif" width="350px"/>
 
 - 🔭 I’m currently working on **Html , CSS , Javascript Projects**
 
