@@ -1,7 +1,11 @@
 <img align="right" class="GIF" alt="GIF" src="/git banner.gif" width="350px"/>
 <h1 align="center">Hi All👋, I'm Yaqoob Ahmed</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22A39F&vCenter=true&width=435&lines=Flutter+Developer;Mobile+Application+Developer" alt="Typing SVG" /></a>
 <h3 align="center">A Passionate Web & Mobile Developer</h3>
 <img align="right" class="GIF" alt="GIF" src="/git profile gif.gif" width="450px"/>
+
+
 
 - 🔭 I’m currently working on **Flutter UI**
 
