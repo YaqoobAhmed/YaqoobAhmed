@@ -1,17 +1,18 @@
 <p align="center">
   <img src="./assets/cover.jpeg" height="200"/>
 </p>
-<h1 align="center">Hi <img src="./assets/wave.gif" height="30" width="30"/>  This is Yaqoob Ahmed </h1>
+<h1 align="center">Hi 👋, This is Yaqoob Ahmed👨‍💻 </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22A39F&vCenter=true&width=435&lines=Passionate+Flutter+Developer;Mobile+Application+Developer" alt="Typing SVG" /></a>
+<a  align="center"
+href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=22A39F&vCenter=true&width=435&lines=Passionate+Flutter+Developer;Mobile+Application+Developer" alt="Typing SVG" /></a>
 
-<p> 
+<p align="center" > 
 I am currently a final-year student of Computer Science at <b> Sir Syed University,</b> where I am actively improving my skills in <b> <em>Mobile App Development</em> </b>  through the Saylani Mass IT Training Program. My fervent passion for Mobile App Development drives me to strive for excellence. <br />
 I always eager to embrace new challenges and opportunities for growth.
 </p>
 
 
-<img align="right" class="GIF" alt="GIF" src="./assets/coding.gif" width="450px"/>
+<img align="right" class="GIF" alt="GIF" src="./assets/coding.gif" width="380px"/>
 
 
 
@@ -19,7 +20,7 @@ I always eager to embrace new challenges and opportunities for growth.
 
 - 🌱 I’m currently learning **Dart , Flutter**
 
-- 📫 How to reach me **yaqoobahmed29@gmail.com**
+- 📫 Reach me via Email **yaqoobahmed29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,6 +46,13 @@ I always eager to embrace new challenges and opportunities for growth.
    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
      </p>
+
+
+<br/>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<br/>
+<br/>
 
 
 
