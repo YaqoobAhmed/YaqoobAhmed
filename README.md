@@ -50,25 +50,6 @@ I enjoy building scalable mobile applications, integrating backend services, and
 - 🤖 Exploring AI-powered applications
 - 📚 Improving System Design & Backend Development
 
-</td>
-
-<td width="40%" valign="top" align="center">
-
-<img src="./assets/coding.gif" width="320"/>
-
-</td>
-</tr>
-</table>
-
-### 🚀 Current Focus
-
-- 📱 Building Cross-Platform Mobile Applications
-- 🔥 Flutter & Firebase
-- 🌐 REST API Integration
-- ⚡ Learning Node.js & Express.js
-- 🤖 Exploring AI-powered applications
-- 📚 Improving System Design & Backend Development
-
 ### 💼 Experience
 
 - ✅ 2+ Years of Flutter Development
