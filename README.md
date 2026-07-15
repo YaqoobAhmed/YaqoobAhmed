@@ -18,17 +18,22 @@ Flutter Developer • Mobile App Engineer • Backend Learner
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<img align="right" src="./assets/coding.gif" width="350"/>
 
 ## 👨‍💻 About Me
 
-I'm a **Flutter Developer** with **2+ years of professional experience** building scalable and user-friendly mobile applications.
+I'm a **Flutter Developer** with **2+ years of professional experience** building high-quality Android & iOS applications using Flutter.
 
-I enjoy transforming ideas into high-quality mobile experiences using Flutter and Firebase while continuously expanding my backend development skills with **Node.js** and **Express.js**.
+I enjoy building scalable mobile applications, integrating backend services, and continuously learning new technologies. I'm currently expanding my backend development skills with **Node.js** and **Express.js**, while also exploring **AI-powered applications**.
 
-I'm passionate about creating clean architecture, writing maintainable code, and exploring modern technologies including **AI**, **Backend Development**, and **Cloud Services**.
+- 🔭 Currently working on **Flutter & Backend Development**
+- 🌱 Learning **Node.js, Express.js & MongoDB**
+- 📱 2+ Years of Professional Flutter Development
+- 🔥 Experienced with Firebase, REST APIs & Stripe
+- 🚀 Published Android & iOS Applications
+- 📫 Reach me at **yaqoobahmed29@gmail.com**
+
+---
 
 ### 🚀 Current Focus
 
