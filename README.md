@@ -18,7 +18,9 @@ Flutter Developer • Mobile App Engineer • Backend Learner
 
 ---
 
-<img align="right" src="./assets/coding.gif" width="360"/>
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ## 👨‍💻 About Me
 
@@ -27,6 +29,25 @@ I'm a **Flutter Developer** with **2+ years of professional experience** buildin
 I enjoy transforming ideas into high-quality mobile experiences using Flutter and Firebase while continuously expanding my backend development skills with **Node.js** and **Express.js**.
 
 I'm passionate about creating clean architecture, writing maintainable code, and exploring modern technologies including **AI**, **Backend Development**, and **Cloud Services**.
+
+### 🚀 Current Focus
+
+- 📱 Building Cross-Platform Mobile Applications
+- 🔥 Flutter & Firebase
+- 🌐 REST API Integration
+- ⚡ Learning Node.js & Express.js
+- 🤖 Exploring AI-powered applications
+- 📚 Improving System Design & Backend Development
+
+</td>
+
+<td width="40%" valign="top" align="center">
+
+<img src="./assets/coding.gif" width="320"/>
+
+</td>
+</tr>
+</table>
 
 ### 🚀 Current Focus
 
