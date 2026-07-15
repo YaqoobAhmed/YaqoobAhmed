@@ -81,15 +81,12 @@ I'm passionate about creating clean architecture, writing maintainable code, and
 ## 📈 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=yaqoobahmed&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaqoobahmed&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaqoobahmed&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaqoobahmed&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 <p align="center">
@@ -101,7 +98,3 @@ I'm passionate about creating clean architecture, writing maintainable code, and
 </p>
 
 ---
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=yaqoobahmed&label=Profile%20Views&color=3B82F6&style=flat"/>
-</p>
