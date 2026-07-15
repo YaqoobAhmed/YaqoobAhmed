@@ -18,7 +18,13 @@ Flutter Developer • Mobile App Engineer • Backend Learner
 
 ---
 
-<img align="right" src="./assets/coding.gif" width="350"/>
+<!-- <img align="right" src="./assets/coding.gif" width="350"/> -->
+<img
+  align="right"
+  src="./assets/coding.gif"
+  width="350"
+  style="margin-top: 70px;"
+/>
 
 ## 👨‍💻 About Me
 
