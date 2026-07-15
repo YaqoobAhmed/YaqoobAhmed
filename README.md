@@ -78,19 +78,16 @@ I'm passionate about creating clean architecture, writing maintainable code, and
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
+## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=yaqoobahmed&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="180em"
-       src="https://github-readme-streak-stats-eight.vercel.app/?user=yaqoobahmed&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=yaqoobahmed&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaqoobahmed&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yaqoobahmed&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaqoobahmed&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
